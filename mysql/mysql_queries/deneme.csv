@@ -1,0 +1,304 @@
+PID	DocID	SentenceID	UserID	Novelty	Text					
+140	88130	1	ercangu	3	Otobüs 	Aras Nehri'ne uçtu :21 yaralý Bir yolcu otobüsünün Aras Nehri'ne uçmasý sonucu ilk belirlemelere göre 21 kiþi yaralandý .				
+140	88130	1	Mehmet	2	Otobüs 	Aras Nehri'ne uçtu :21 yaralý Bir yolcu otobüsünün Aras Nehri'ne uçmasý sonucu ilk belirlemelere göre 21 kiþi yaralandý .				
+140	88130	1	mücahid	2	Otobüs 	Aras Nehri'ne uçtu :21 yaralý Bir yolcu otobüsünün Aras Nehri'ne uçmasý sonucu ilk belirlemelere göre 21 kiþi yaralandý .				
+140	88130	2	ercangu	2	Ýstanbul'dan Iðdýr'a gitmekte olan Musa Pelek'in kullandýðý 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçtu .				
+140	88130	2	Mehmet	2	Ýstanbul'dan Iðdýr'a gitmekte olan Musa Pelek'in kullandýðý 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçtu .				
+140	88130	2	mücahid	2	Ýstanbul'dan Iðdýr'a gitmekte olan Musa Pelek'in kullandýðý 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçtu .				
+140	88130	3	ercangu	3	Olayda 	ilk belirlemelere göre 21 kiþi yaralandý .				
+140	88130	3	Mehmet	2	Olayda 	ilk belirlemelere göre 21 kiþi yaralandý .				
+140	88130	3	mücahid	2	Olayda 	ilk belirlemelere göre 21 kiþi yaralandý .				
+140	88130	4	ercangu	2	Otobüste bulunan yolcularýn kurtarýlmasýna çalýþýlýyor .					
+140	88130	4	Mehmet	2	Otobüste bulunan yolcularýn kurtarýlmasýna çalýþýlýyor .					
+140	88130	4	mücahid	2	Otobüste bulunan yolcularýn kurtarýlmasýna çalýþýlýyor .					
+140	88134	1	ercangu	2	Sabah saat :06 .00 sýralarýnda meydana gelen kazada 	Ýstanbul'dan Iðdýr'a gitmekte olan Musa Pelek'in kullandýðý 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçtu .			
+140	88134	1	Mehmet	2	Sabah saat :06 .00 sýralarýnda meydana gelen kazada 	Ýstanbul'dan Iðdýr'a gitmekte olan Musa Pelek'in kullandýðý 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçtu .			
+140	88134	1	mücahid	2	Sabah saat :06 .00 sýralarýnda meydana gelen kazada 	Ýstanbul'dan Iðdýr'a gitmekte olan Musa Pelek'in kullandýðý 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçtu .			
+140	88134	2	ercangu	2	Yaralý yolcular Horasan ve Sarýkamýþ Devlet Hastaneleri'ne kaldýrýldý .					
+140	88134	2	Mehmet	2	Yaralý yolcular Horasan ve Sarýkamýþ Devlet Hastaneleri'ne kaldýrýldý .					
+140	88134	2	mücahid	2	Yaralý yolcular Horasan ve Sarýkamýþ Devlet Hastaneleri'ne kaldýrýldý .					
+140	88134	3	ercangu	3	Olay yerine gelen vincin otobüsü çýkartmasý bekleniyor .					
+140	88134	3	Mehmet	3	Olay yerine gelen vincin otobüsü çýkartmasý bekleniyor .					
+140	88134	3	mücahid	3	Olay yerine gelen vincin otobüsü çýkartmasý bekleniyor .					
+140	88134	4	ercangu	2	Kazada ölen olup olmadýðý konusunda henüz bir bilgi geçilmedi .					
+140	88134	4	Mehmet	2	Kazada ölen olup olmadýðý konusunda henüz bir bilgi geçilmedi .					
+140	88134	4	mücahid	2	Kazada ölen olup olmadýðý konusunda henüz bir bilgi geçilmedi .					
+140	88145	1	ercangu	3	Aras Nehri'ne uçan otobüsten yaralý kurtarýlan kadýn öldü Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan bir kadýn 	hayatýný kaybetti .				
+140	88145	1	Mehmet	3	Aras Nehri'ne uçan otobüsten yaralý kurtarýlan kadýn öldü Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan bir kadýn 	hayatýný kaybetti .				
+140	88145	1	mücahid	3	Aras Nehri'ne uçan otobüsten yaralý kurtarýlan kadýn öldü Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan bir kadýn 	hayatýný kaybetti .				
+140	88145	2	ercangu	2	Ýstanbul'dan Iðdýr'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan kadýn 	Sarýkamýþ Devlet Hastanesi'ne kaldýrýlýrken öldü .				
+140	88145	2	Mehmet	3	Ýstanbul'dan Iðdýr'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan kadýn 	Sarýkamýþ Devlet Hastanesi'ne kaldýrýlýrken öldü .				
+140	88145	2	mücahid	3	Ýstanbul'dan Iðdýr'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan kadýn 	Sarýkamýþ Devlet Hastanesi'ne kaldýrýlýrken öldü .				
+140	88145	3	ercangu	2	Arama ve kurtarma çalýþmalarýna katýlmak üzere 	Erzurum Sivil Savunma Müdürlüðü'nden 5'i dalgýç 14 personelden oluþan bir ekip 	olay yerine gitti .			
+140	88145	3	Mehmet	2	Arama ve kurtarma çalýþmalarýna katýlmak üzere 	Erzurum Sivil Savunma Müdürlüðü'nden 5'i dalgýç 14 personelden oluþan bir ekip 	olay yerine gitti .			
+140	88145	3	mücahid	2	Arama ve kurtarma çalýþmalarýna katýlmak üzere 	Erzurum Sivil Savunma Müdürlüðü'nden 5'i dalgýç 14 personelden oluþan bir ekip 	olay yerine gitti .			
+140	88145	4	ercangu	2	Otobüste bulunanlarýn sayýsý henüz tespit edilemedi .					
+140	88145	4	Mehmet	2	Otobüste bulunanlarýn sayýsý henüz tespit edilemedi .					
+140	88145	4	mücahid	2	Otobüste bulunanlarýn sayýsý henüz tespit edilemedi .					
+140	88145	5	ercangu	3	Arama ve kurtarma çalýþmalarý için sivil savunma ekibi bekleniyor .					
+140	88145	5	Mehmet	2	Arama ve kurtarma çalýþmalarý için sivil savunma ekibi bekleniyor .					
+140	88145	5	mücahid	2	Arama ve kurtarma çalýþmalarý için sivil savunma ekibi bekleniyor .					
+140	88176	1	ercangu	2	Erzurum'dan giden ve 5 dalgýcýn yer aldýðý sivil savunma ekibi arama çalýþmalarýný sürdürürken 	kazada yaralananlarýn Kars 	Sarýkamýþ ve Horasan devlet hastanelerinde tedavileri sürüyor .			
+140	88176	1	Mehmet	2	Erzurum'dan giden ve 5 dalgýcýn yer aldýðý sivil savunma ekibi arama çalýþmalarýný sürdürürken 	kazada yaralananlarýn Kars 	Sarýkamýþ ve Horasan devlet hastanelerinde tedavileri sürüyor .			
+140	88176	1	mücahid	2	Erzurum'dan giden ve 5 dalgýcýn yer aldýðý sivil savunma ekibi arama çalýþmalarýný sürdürürken 	kazada yaralananlarýn Kars 	Sarýkamýþ ve Horasan devlet hastanelerinde tedavileri sürüyor .			
+140	88176	2	ercangu	2	Sabah saatlerinde meydana gelen kazada 	Musa Pelek'in kullandýðý bildirilen 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçmuþtu .			
+140	88176	2	Mehmet	2	Sabah saatlerinde meydana gelen kazada 	Musa Pelek'in kullandýðý bildirilen 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçmuþtu .			
+140	88176	2	mücahid	2	Sabah saatlerinde meydana gelen kazada 	Musa Pelek'in kullandýðý bildirilen 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçmuþtu .			
+140	88176	3	ercangu	3	Edinilen bilgiye göre 	olay yerinde 3 kiþinin hayatýný kaybettiði kazada 	Erzurum'a sevkedilen yaralýlardan Nahile Askerova da hayatýný kaybetti .			
+140	88176	3	Mehmet	2	Edinilen bilgiye göre 	olay yerinde 3 kiþinin hayatýný kaybettiði kazada 	Erzurum'a sevkedilen yaralýlardan Nahile Askerova da hayatýný kaybetti .			
+140	88176	3	mücahid	3	Edinilen bilgiye göre 	olay yerinde 3 kiþinin hayatýný kaybettiði kazada 	Erzurum'a sevkedilen yaralýlardan Nahile Askerova da hayatýný kaybetti .			
+140	88176	4	ercangu	3	Kaza sonrasý nehirde akýntýya kapýldýðý belirtilen 3 kiþiden 2'sinin cesedi yapýlan çalýþma sonrasý bulunurken 	diðer kayýp yolcunun aranmasýna devam ediliyor .				
+140	88176	4	Mehmet	3	Kaza sonrasý nehirde akýntýya kapýldýðý belirtilen 3 kiþiden 2'sinin cesedi yapýlan çalýþma sonrasý bulunurken 	diðer kayýp yolcunun aranmasýna devam ediliyor .				
+140	88176	4	mücahid	2	Kaza sonrasý nehirde akýntýya kapýldýðý belirtilen 3 kiþiden 2'sinin cesedi yapýlan çalýþma sonrasý bulunurken 	diðer kayýp yolcunun aranmasýna devam ediliyor .				
+140	88177	1	ercangu	2	Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü Aras Nehri'ne uçan yolcu otobüsünden 	bir kadýn yolcunun cesedi çýkarýldý .				
+140	88177	1	Mehmet	3	Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü Aras Nehri'ne uçan yolcu otobüsünden 	bir kadýn yolcunun cesedi çýkarýldý .				
+140	88177	1	mücahid	2	Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü Aras Nehri'ne uçan yolcu otobüsünden 	bir kadýn yolcunun cesedi çýkarýldý .				
+140	88177	2	ercangu	2	Ýstanbul'dan Iðdýr'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden 	dalgýçlar 	bir kadýn yolcunun cesedini çýkardýlar .			
+140	88177	2	Mehmet	3	Ýstanbul'dan Iðdýr'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden 	dalgýçlar 	bir kadýn yolcunun cesedini çýkardýlar .			
+140	88177	2	mücahid	2	Ýstanbul'dan Iðdýr'a gitmekte olan ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünden 	dalgýçlar 	bir kadýn yolcunun cesedini çýkardýlar .			
+140	88177	3	ercangu	2	Erzurum'dan giden ve 5 dalgýcýn yer aldýðý sivil savunma ekibi arama çalýþmalarýný sürdürürken 	kazada yaralananlarýn Kars 	Sarýkamýþ ve Horasan devlet hastanelerinde tedavileri sürüyor .			
+140	88177	3	Mehmet	2	Erzurum'dan giden ve 5 dalgýcýn yer aldýðý sivil savunma ekibi arama çalýþmalarýný sürdürürken 	kazada yaralananlarýn Kars 	Sarýkamýþ ve Horasan devlet hastanelerinde tedavileri sürüyor .			
+140	88177	3	mücahid	2	Erzurum'dan giden ve 5 dalgýcýn yer aldýðý sivil savunma ekibi arama çalýþmalarýný sürdürürken 	kazada yaralananlarýn Kars 	Sarýkamýþ ve Horasan devlet hastanelerinde tedavileri sürüyor .			
+140	88177	4	ercangu	2	Sabah saatlerinde meydana gelen kazada 	Musa Pelek'in kullandýðý bildirilen 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçmuþ 	ilk belirlemelere göre 1 kadýn 	hastaneye götürülürken yaþamýný yitirmiþ 	20 kiþi yaralanmýþtý .
+140	88177	4	Mehmet	2	Sabah saatlerinde meydana gelen kazada 	Musa Pelek'in kullandýðý bildirilen 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçmuþ 	ilk belirlemelere göre 1 kadýn 	hastaneye götürülürken yaþamýný yitirmiþ 	20 kiþi yaralanmýþtý .
+140	88177	4	mücahid	2	Sabah saatlerinde meydana gelen kazada 	Musa Pelek'in kullandýðý bildirilen 34 YJ 9924 plakalý yolcu otobüsü 	Karakurt mevkiinde Aras Nehri'ne uçmuþ 	ilk belirlemelere göre 1 kadýn 	hastaneye götürülürken yaþamýný yitirmiþ 	20 kiþi yaralanmýþtý .
+140	88177	5	ercangu	2	Çýkarýlan kadýn yolcuyla birlikte 	ölenlerin sayýsý 2'ye yükseldi .				
+140	88177	5	Mehmet	2	Çýkarýlan kadýn yolcuyla birlikte 	ölenlerin sayýsý 2'ye yükseldi .				
+140	88177	5	mücahid	2	Çýkarýlan kadýn yolcuyla birlikte 	ölenlerin sayýsý 2'ye yükseldi .				
+140	88185	1	ercangu	2	Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü 	37 yaralý Kars'ýn Sarýkamýþ Ýlçesi Kaymakamý Bayram Gale 	Aras Nehri'ne uçan otobüste belirlemelere göre iki kiþinin öldüðü 	37 kiþinin yaralandýðýný bildirdi .		
+140	88185	1	Mehmet	2	Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü 	37 yaralý Kars'ýn Sarýkamýþ Ýlçesi Kaymakamý Bayram Gale 	Aras Nehri'ne uçan otobüste belirlemelere göre iki kiþinin öldüðü 	37 kiþinin yaralandýðýný bildirdi .		
+140	88185	1	mücahid	3	Yolcu otobüsü Aras Nehri'ne uçtu :2 ölü 	37 yaralý Kars'ýn Sarýkamýþ Ýlçesi Kaymakamý Bayram Gale 	Aras Nehri'ne uçan otobüste belirlemelere göre iki kiþinin öldüðü 	37 kiþinin yaralandýðýný bildirdi .		
+140	88185	2	ercangu	2	Gale 	bir yolcu otobüsünün sabah saatlerinde Aras Nehri'ne uçtuðunu belirterek 	''Þu ana kadar yaptýðýmýz belirlemelere göre kazada 2 kiþi yaþamýný yitirdi ''diye konuþtu .			
+140	88185	2	Mehmet	2	Gale 	bir yolcu otobüsünün sabah saatlerinde Aras Nehri'ne uçtuðunu belirterek 	''Þu ana kadar yaptýðýmýz belirlemelere göre kazada 2 kiþi yaþamýný yitirdi ''diye konuþtu .			
+140	88185	2	mücahid	3	Gale 	bir yolcu otobüsünün sabah saatlerinde Aras Nehri'ne uçtuðunu belirterek 	''Þu ana kadar yaptýðýmýz belirlemelere göre kazada 2 kiþi yaþamýný yitirdi ''diye konuþtu .			
+140	88185	3	ercangu	2	Kazada yaralanan 37 kiþiden 4'nün Kars 	10'nun Sarýkamýþ devlet hastanelerinde tedavi altýna alýndýðý 	diðer yaralýlarýn ise Erzurum ve Horasan'a sevk edildiði kaydedildi .			
+140	88185	3	Mehmet	2	Kazada yaralanan 37 kiþiden 4'nün Kars 	10'nun Sarýkamýþ devlet hastanelerinde tedavi altýna alýndýðý 	diðer yaralýlarýn ise Erzurum ve Horasan'a sevk edildiði kaydedildi .			
+140	88185	3	mücahid	2	Kazada yaralanan 37 kiþiden 4'nün Kars 	10'nun Sarýkamýþ devlet hastanelerinde tedavi altýna alýndýðý 	diðer yaralýlarýn ise Erzurum ve Horasan'a sevk edildiði kaydedildi .			
+140	88206	1	ercangu	3	Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü 	9 kayýp Kars Valisi Nevzat Turhan 	Aras Nehri'ne uçan yolcu otobüsüyle ilgili olarak 	''Firma görevlilerinin ifadeleri doðrultusunda 9 kiþi kayýp ''dedi .?		
+140	88206	1	Mehmet	2	Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü 	9 kayýp Kars Valisi Nevzat Turhan 	Aras Nehri'ne uçan yolcu otobüsüyle ilgili olarak 	''Firma görevlilerinin ifadeleri doðrultusunda 9 kiþi kayýp ''dedi .?		
+140	88206	1	mücahid	3	Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü 	9 kayýp Kars Valisi Nevzat Turhan 	Aras Nehri'ne uçan yolcu otobüsüyle ilgili olarak 	''Firma görevlilerinin ifadeleri doðrultusunda 9 kiþi kayýp ''dedi .?		
+140	88206	2	ercangu	1	Bilecik'te trafik kazasý meydana geldi :19 yaralý ?					
+140	88206	2	Mehmet	1	Bilecik'te trafik kazasý meydana geldi :19 yaralý ?					
+140	88206	2	mücahid	1	Bilecik'te trafik kazasý meydana geldi :19 yaralý ?					
+140	88206	3	ercangu	2	Afyonkarahisar'da trafik kazasý :14 yaralý Vali Turhan 	gazetecileri yaptýðý açýklamada 	Ýstanbul'dan Nahcivan'a gitmekte olan Iðdýrlý Turizm'e ait otobüsün 	Sarýkamýþ Ýlçesi'ne baðlý Karakurt Beldesi'ne 4 kilometre uzaklýktaki bölgede virajý alamayarak 	Aras Nehri'ne uçtuðunu ve yapýlan ilk müdahalede 	35 kiþinin yaralý olarak kurtarýldýðýný söyledi .
+140	88206	3	Mehmet	2	Afyonkarahisar'da trafik kazasý :14 yaralý Vali Turhan 	gazetecileri yaptýðý açýklamada 	Ýstanbul'dan Nahcivan'a gitmekte olan Iðdýrlý Turizm'e ait otobüsün 	Sarýkamýþ Ýlçesi'ne baðlý Karakurt Beldesi'ne 4 kilometre uzaklýktaki bölgede virajý alamayarak 	Aras Nehri'ne uçtuðunu ve yapýlan ilk müdahalede 	35 kiþinin yaralý olarak kurtarýldýðýný söyledi .
+140	88206	3	mücahid	3	Afyonkarahisar'da trafik kazasý :14 yaralý Vali Turhan 	gazetecileri yaptýðý açýklamada 	Ýstanbul'dan Nahcivan'a gitmekte olan Iðdýrlý Turizm'e ait otobüsün 	Sarýkamýþ Ýlçesi'ne baðlý Karakurt Beldesi'ne 4 kilometre uzaklýktaki bölgede virajý alamayarak 	Aras Nehri'ne uçtuðunu ve yapýlan ilk müdahalede 	35 kiþinin yaralý olarak kurtarýldýðýný söyledi .
+140	88206	4	ercangu	2	Yaralýlardan 24'nün Horasan ve Erzurum devlet hastanelerinde 11'nin ise Sarýkamýþ ve Kars'ta tedavi altýna alýndýðýný bildiren Vali Turhan 	''Þu ana kadar 2 kiþi öldü .				
+140	88206	4	Mehmet	2	Yaralýlardan 24'nün Horasan ve Erzurum devlet hastanelerinde 11'nin ise Sarýkamýþ ve Kars'ta tedavi altýna alýndýðýný bildiren Vali Turhan 	''Þu ana kadar 2 kiþi öldü .				
+140	88206	4	mücahid	2	Yaralýlardan 24'nün Horasan ve Erzurum devlet hastanelerinde 11'nin ise Sarýkamýþ ve Kars'ta tedavi altýna alýndýðýný bildiren Vali Turhan 	''Þu ana kadar 2 kiþi öldü .				
+140	88206	5	ercangu	3	1 cesedin de aracýn alt kýsmýnda sýkýþmýþ olduðu belirlendi ''diye konuþtu .					
+140	88206	5	Mehmet	3	1 cesedin de aracýn alt kýsmýnda sýkýþmýþ olduðu belirlendi ''diye konuþtu .					
+140	88206	5	mücahid	3	1 cesedin de aracýn alt kýsmýnda sýkýþmýþ olduðu belirlendi ''diye konuþtu .					
+140	88209	1	ercangu	3	Yaralý kurtarýlan yolcu :Yoldan geçenler bizi kurtardý Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan Nahcývan uyruklu Vekil Caferov 	''Yoldan geçenler bizi kurtardý ''dedi .				
+140	88209	1	Mehmet	3	Yaralý kurtarýlan yolcu :Yoldan geçenler bizi kurtardý Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan Nahcývan uyruklu Vekil Caferov 	''Yoldan geçenler bizi kurtardý ''dedi .				
+140	88209	1	mücahid	3	Yaralý kurtarýlan yolcu :Yoldan geçenler bizi kurtardý Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan Nahcývan uyruklu Vekil Caferov 	''Yoldan geçenler bizi kurtardý ''dedi .				
+140	88209	2	ercangu	3	Aras Nehri'ne uçan yolcu otobüsünde yaralanan ve Kars Devlet Hastanesi'nde tedavi altýna alýnan Caferov 	yaþadýklarýný anlattý .				
+140	88209	2	Mehmet	3	Aras Nehri'ne uçan yolcu otobüsünde yaralanan ve Kars Devlet Hastanesi'nde tedavi altýna alýnan Caferov 	yaþadýklarýný anlattý .				
+140	88209	2	mücahid	3	Aras Nehri'ne uçan yolcu otobüsünde yaralanan ve Kars Devlet Hastanesi'nde tedavi altýna alýnan Caferov 	yaþadýklarýný anlattý .				
+140	88209	3	ercangu	3	Kaza anýnda uyumaya çalýþtýðýný ifade eden Caferov 	þunlarý söyledi :''Bir anda otobüs uçtu .				
+140	88209	3	Mehmet	3	Kaza anýnda uyumaya çalýþtýðýný ifade eden Caferov 	þunlarý söyledi :''Bir anda otobüs uçtu .				
+140	88209	3	mücahid	3	Kaza anýnda uyumaya çalýþtýðýný ifade eden Caferov 	þunlarý söyledi :''Bir anda otobüs uçtu .				
+140	88209	4	ercangu	3	Ayaðýmý hissetmiyordum .					
+140	88209	4	Mehmet	3	Ayaðýmý hissetmiyordum .					
+140	88209	4	mücahid	3	Ayaðýmý hissetmiyordum .					
+140	88209	5	ercangu	3	Suyun kenarýnda bir aðaç parçasý vardý .					
+140	88209	5	Mehmet	3	Suyun kenarýnda bir aðaç parçasý vardý .					
+140	88209	5	mücahid	3	Suyun kenarýnda bir aðaç parçasý vardý .					
+140	88209	6	ercangu	3	Ona tutunarak sudan çýktým .					
+140	88209	6	Mehmet	3	Ona tutunarak sudan çýktým .					
+140	88209	6	mücahid	3	Ona tutunarak sudan çýktým .					
+140	88209	7	ercangu	2	Benim gibi diðer yaralýlar da yardým için baðýrýyorlardý .					
+140	88209	7	Mehmet	3	Benim gibi diðer yaralýlar da yardým için baðýrýyorlardý .					
+140	88209	7	mücahid	3	Benim gibi diðer yaralýlar da yardým için baðýrýyorlardý .					
+140	88209	8	ercangu	3	O sýrada yoldan geçenler durarak 	bizi kurtardýlar .''.				
+140	88209	8	Mehmet	3	O sýrada yoldan geçenler durarak 	bizi kurtardýlar .''.				
+140	88209	8	mücahid	3	O sýrada yoldan geçenler durarak 	bizi kurtardýlar .''.				
+140	88255	1	ercangu	2	Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü 	39 yaralý Kars Valisi Nevzat Turhan 	Aras Nehri'ne uçan otobüste 3 kiþinin öldüðünü 	39 kiþinin yaralandýðýný söyledi .		
+140	88255	1	Mehmet	2	Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü 	39 yaralý Kars Valisi Nevzat Turhan 	Aras Nehri'ne uçan otobüste 3 kiþinin öldüðünü 	39 kiþinin yaralandýðýný söyledi .		
+140	88255	1	mücahid	2	Yolcu otobüsü Aras Nehri'ne uçtu :3 ölü 	39 yaralý Kars Valisi Nevzat Turhan 	Aras Nehri'ne uçan otobüste 3 kiþinin öldüðünü 	39 kiþinin yaralandýðýný söyledi .		
+140	88255	2	ercangu	2	Vali Turhan 	gazetecilere yaptýðý açýklamada 	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden Iðdýrlý Turizm'e ait 34 YJ 9924 plakalý yolcu otobüsünün sürücülerinin 	Musa Telek ve Ýsa Telek olduðunun belirlendiðini ifade etti .		
+140	88255	2	Mehmet	3	Vali Turhan 	gazetecilere yaptýðý açýklamada 	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden Iðdýrlý Turizm'e ait 34 YJ 9924 plakalý yolcu otobüsünün sürücülerinin 	Musa Telek ve Ýsa Telek olduðunun belirlendiðini ifade etti .		
+140	88255	2	mücahid	3	Vali Turhan 	gazetecilere yaptýðý açýklamada 	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden Iðdýrlý Turizm'e ait 34 YJ 9924 plakalý yolcu otobüsünün sürücülerinin 	Musa Telek ve Ýsa Telek olduðunun belirlendiðini ifade etti .		
+140	88255	3	ercangu	3	Kazada 3 kiþinin hayatýný kaybettiðini belirten Vali Turhan 	yaralýlarýn Erzurum ve Kars'taki hastanelerde tedavilerinin sürdüðünü 	bunlardan 6'sýnýn durumlarýnýn aðýr olduðunu belirtti .			
+140	88255	3	Mehmet	2	Kazada 3 kiþinin hayatýný kaybettiðini belirten Vali Turhan 	yaralýlarýn Erzurum ve Kars'taki hastanelerde tedavilerinin sürdüðünü 	bunlardan 6'sýnýn durumlarýnýn aðýr olduðunu belirtti .			
+140	88255	3	mücahid	2	Kazada 3 kiþinin hayatýný kaybettiðini belirten Vali Turhan 	yaralýlarýn Erzurum ve Kars'taki hastanelerde tedavilerinin sürdüðünü 	bunlardan 6'sýnýn durumlarýnýn aðýr olduðunu belirtti .			
+140	88327	1	ercangu	2	Aras'a uçan otobüste ölenlerin sayýsý 6'ya yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayýsý 6'ya yükseldi .					
+140	88327	1	Mehmet	3	Aras'a uçan otobüste ölenlerin sayýsý 6'ya yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayýsý 6'ya yükseldi .					
+140	88327	1	mücahid	2	Aras'a uçan otobüste ölenlerin sayýsý 6'ya yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayýsý 6'ya yükseldi .					
+140	88327	2	ercangu	2	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünde arama ve kurtarma çalýþmalarý kapsamýnda 	dalgýçlar 	otobüste sýkýþtýðý fark edilen bir cesedi sudan çýkardý .			
+140	88327	2	Mehmet	2	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünde arama ve kurtarma çalýþmalarý kapsamýnda 	dalgýçlar 	otobüste sýkýþtýðý fark edilen bir cesedi sudan çýkardý .			
+140	88327	2	mücahid	2	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsünde arama ve kurtarma çalýþmalarý kapsamýnda 	dalgýçlar 	otobüste sýkýþtýðý fark edilen bir cesedi sudan çýkardý .			
+140	88327	3	ercangu	3	Sivil Savunma yetkilileri de otobüsün nehre uçtuðu bölgenin 20 kilometre uzaðýnda Kaðýzman yolu bölgesinde bir kiþinin daha cesedinin bulunduðunu 	ancak akýntý nedeniyle cesedi henüz sudan çýkaramadýklarýný kaydettiler .				
+140	88327	3	Mehmet	3	Sivil Savunma yetkilileri de otobüsün nehre uçtuðu bölgenin 20 kilometre uzaðýnda Kaðýzman yolu bölgesinde bir kiþinin daha cesedinin bulunduðunu 	ancak akýntý nedeniyle cesedi henüz sudan çýkaramadýklarýný kaydettiler .				
+140	88327	3	mücahid	3	Sivil Savunma yetkilileri de otobüsün nehre uçtuðu bölgenin 20 kilometre uzaðýnda Kaðýzman yolu bölgesinde bir kiþinin daha cesedinin bulunduðunu 	ancak akýntý nedeniyle cesedi henüz sudan çýkaramadýklarýný kaydettiler .				
+140	88327	4	ercangu	2	Yetkililer 	bu cesetlerle birlikte kazada ölenlerin sayýsýnýn 6'ya yükseldiðini bildirdiler .				
+140	88327	4	Mehmet	2	Yetkililer 	bu cesetlerle birlikte kazada ölenlerin sayýsýnýn 6'ya yükseldiðini bildirdiler .				
+140	88327	4	mücahid	2	Yetkililer 	bu cesetlerle birlikte kazada ölenlerin sayýsýnýn 6'ya yükseldiðini bildirdiler .				
+140	88327	5	ercangu	2	Bu arada 	daha önce otobüste sýkýþtýðý belirtilen bir kiþiye ait ceset de bulunduðu yerden çýkarýldý .				
+140	88327	5	Mehmet	3	Bu arada 	daha önce otobüste sýkýþtýðý belirtilen bir kiþiye ait ceset de bulunduðu yerden çýkarýldý .				
+140	88327	5	mücahid	2	Bu arada 	daha önce otobüste sýkýþtýðý belirtilen bir kiþiye ait ceset de bulunduðu yerden çýkarýldý .				
+140	88372	1	ercangu	2	Aras'a uçan otobüste ölenlerin sayýsý 7'ye yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayýsý 7'ye yükseldi .					
+140	88372	1	Mehmet	3	Aras'a uçan otobüste ölenlerin sayýsý 7'ye yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayýsý 7'ye yükseldi .					
+140	88372	1	mücahid	3	Aras'a uçan otobüste ölenlerin sayýsý 7'ye yükseldi Aras Nehri'ne uçan yolcu otobüsünde ölenlerin sayýsý 7'ye yükseldi .					
+140	88372	2	ercangu	2	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsü 	çekiciyle sudan çýkarýldý .				
+140	88372	2	Mehmet	2	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsü 	çekiciyle sudan çýkarýldý .				
+140	88372	2	mücahid	2	Ýstanbul'dan Iðdýr baðlantýlý olarak Nahcivan'a giden ve Karakurt mevkiinde Aras Nehri'ne uçan yolcu otobüsü 	çekiciyle sudan çýkarýldý .				
+140	88372	3	ercangu	2	Bu arada 	otobüstü sýkýþan 1 kiþinin daha cesedine ulaþýldý .				
+140	88372	3	Mehmet	3	Bu arada 	otobüstü sýkýþan 1 kiþinin daha cesedine ulaþýldý .				
+140	88372	3	mücahid	2	Bu arada 	otobüstü sýkýþan 1 kiþinin daha cesedine ulaþýldý .				
+140	88372	4	ercangu	3	Emniyet yetkilileri 	kazada ölen Fatma Tuna 	Eþber Abbasova ve Þupika Fitrika'nýn kimliklerinin belirlendiðini bildirdiler .			
+140	88372	4	Mehmet	3	Emniyet yetkilileri 	kazada ölen Fatma Tuna 	Eþber Abbasova ve Þupika Fitrika'nýn kimliklerinin belirlendiðini bildirdiler .			
+140	88372	4	mücahid	3	Emniyet yetkilileri 	kazada ölen Fatma Tuna 	Eþber Abbasova ve Þupika Fitrika'nýn kimliklerinin belirlendiðini bildirdiler .			
+140	88372	5	ercangu	2	Daha önce de Nahile Askerova 	tedavi gördüðü Aziziye Araþtýrma Hastanesi'nde hayatýný kaybetmiþti .				
+140	88372	5	Mehmet	2	Daha önce de Nahile Askerova 	tedavi gördüðü Aziziye Araþtýrma Hastanesi'nde hayatýný kaybetmiþti .				
+140	88372	5	mücahid	2	Daha önce de Nahile Askerova 	tedavi gördüðü Aziziye Araþtýrma Hastanesi'nde hayatýný kaybetmiþti .				
+140	88372	6	ercangu	3	Öte yandan 	Kars Valisi Nevzat Turhan 	Ýstanbul'dan yola çýkmadan otobüste gerekli denetimlerin yapýldýðýný belirterek 	''Gerekli denetimler yapýlýyor ama bu tür üzücü kazalar maalesef yaþanýyor .		
+140	88372	6	Mehmet	3	Öte yandan 	Kars Valisi Nevzat Turhan 	Ýstanbul'dan yola çýkmadan otobüste gerekli denetimlerin yapýldýðýný belirterek 	''Gerekli denetimler yapýlýyor ama bu tür üzücü kazalar maalesef yaþanýyor .		
+140	88372	6	mücahid	3	Öte yandan 	Kars Valisi Nevzat Turhan 	Ýstanbul'dan yola çýkmadan otobüste gerekli denetimlerin yapýldýðýný belirterek 	''Gerekli denetimler yapýlýyor ama bu tür üzücü kazalar maalesef yaþanýyor .		
+140	88372	7	ercangu	3	Ayrýca Karakurt bölgesinde jandarma ekiplerimiz 	otobüs sürücülerine 	dikkatli olmalarý konusunda da uyarý yapýyor ''diye konuþtu .			
+140	88372	7	Mehmet	1	Ayrýca Karakurt bölgesinde jandarma ekiplerimiz 	otobüs sürücülerine 	dikkatli olmalarý konusunda da uyarý yapýyor ''diye konuþtu .			
+140	88372	7	mücahid	3	Ayrýca Karakurt bölgesinde jandarma ekiplerimiz 	otobüs sürücülerine 	dikkatli olmalarý konusunda da uyarý yapýyor ''diye konuþtu .			
+140	88383	1	ercangu	2	Kayýp yedi kiþinin aranmasýna devam ediliyor Kars'ýn Sarýkamýþ ilçesinde Aras nehrine bir otobüsün düþmesi sonucu 	ölenlerin sayýsý yediye yükseldi .				
+140	88383	1	Mehmet	2	Kayýp yedi kiþinin aranmasýna devam ediliyor Kars'ýn Sarýkamýþ ilçesinde Aras nehrine bir otobüsün düþmesi sonucu 	ölenlerin sayýsý yediye yükseldi .				
+140	88383	1	mücahid	2	Kayýp yedi kiþinin aranmasýna devam ediliyor Kars'ýn Sarýkamýþ ilçesinde Aras nehrine bir otobüsün düþmesi sonucu 	ölenlerin sayýsý yediye yükseldi .				
+140	88383	2	ercangu	2	Yaralýlarýn ifadesine göre 	otobüs þoförü aniden yola düþen kaya parçasýna çarpmamak için direksiyon kýrdý .				
+140	88383	2	Mehmet	2	Yaralýlarýn ifadesine göre 	otobüs þoförü aniden yola düþen kaya parçasýna çarpmamak için direksiyon kýrdý .				
+140	88383	2	mücahid	2	Yaralýlarýn ifadesine göre 	otobüs þoförü aniden yola düþen kaya parçasýna çarpmamak için direksiyon kýrdý .				
+140	88383	3	ercangu	2	Ancak stabilize yolda aþýrý hýzla ilerleyen otobüs 	sürücünün direksiyon hakimiyetini kaybetmesi sonucu nehre uçtu .				
+140	88383	3	Mehmet	2	Ancak stabilize yolda aþýrý hýzla ilerleyen otobüs 	sürücünün direksiyon hakimiyetini kaybetmesi sonucu nehre uçtu .				
+140	88383	3	mücahid	2	Ancak stabilize yolda aþýrý hýzla ilerleyen otobüs 	sürücünün direksiyon hakimiyetini kaybetmesi sonucu nehre uçtu .				
+140	88383	4	ercangu	2	Yaralýlar Erzurum ve Kars'taki hastanelerde tedavi altýna alýnýrken 	kayýp altý kiþiyi arama çalýþmalarý ise sürüyor .				
+140	88383	4	Mehmet	2	Yaralýlar Erzurum ve Kars'taki hastanelerde tedavi altýna alýnýrken 	kayýp altý kiþiyi arama çalýþmalarý ise sürüyor .				
+140	88383	4	mücahid	2	Yaralýlar Erzurum ve Kars'taki hastanelerde tedavi altýna alýnýrken 	kayýp altý kiþiyi arama çalýþmalarý ise sürüyor .				
+140	88383	5	ercangu	2	Otobüs sürücüsü ile ikinci þoför ve muavinin kazadan yara almadan kurtulduklarý ve olay yerinden kaçtýklarý öne sürüldü .					
+140	88383	5	Mehmet	2	Otobüs sürücüsü ile ikinci þoför ve muavinin kazadan yara almadan kurtulduklarý ve olay yerinden kaçtýklarý öne sürüldü .					
+140	88383	5	mücahid	2	Otobüs sürücüsü ile ikinci þoför ve muavinin kazadan yara almadan kurtulduklarý ve olay yerinden kaçtýklarý öne sürüldü .					
+140	88383	6	ercangu	2	Trafik kayýtlarýndan otobüs sürücüsünün daha önce de 11 kez hýz sýnýrýný aþtýðý ortaya çýktý .					
+140	88383	6	Mehmet	2	Trafik kayýtlarýndan otobüs sürücüsünün daha önce de 11 kez hýz sýnýrýný aþtýðý ortaya çýktý .					
+140	88383	6	mücahid	2	Trafik kayýtlarýndan otobüs sürücüsünün daha önce de 11 kez hýz sýnýrýný aþtýðý ortaya çýktý .					
+140	88428	1	ercangu	3	Kars'ýn Sarýkamýþ Ýlçesi Kaymakamý Bayram Gale 	Aras Nehri'ne uçan otobüsün sürücüsünün gözaltýnda olduðunu bildirdi .				
+140	88428	1	Mehmet	3	Kars'ýn Sarýkamýþ Ýlçesi Kaymakamý Bayram Gale 	Aras Nehri'ne uçan otobüsün sürücüsünün gözaltýnda olduðunu bildirdi .				
+140	88428	1	mücahid	3	Kars'ýn Sarýkamýþ Ýlçesi Kaymakamý Bayram Gale 	Aras Nehri'ne uçan otobüsün sürücüsünün gözaltýnda olduðunu bildirdi .				
+140	88428	2	ercangu	2	Gale 	AA muhabirine yaptýðý açýklamada 	otobüs sürücüsü Musa Telek'in Sarýkamýþ'ta gözaltýnda tutulduðunu belirten Gale 	þunlarý kaydetti :Kazanýn meydana geliþ sebebi de henüz belirlenemedi .		
+140	88428	2	Mehmet	3	Gale 	AA muhabirine yaptýðý açýklamada 	otobüs sürücüsü Musa Telek'in Sarýkamýþ'ta gözaltýnda tutulduðunu belirten Gale 	þunlarý kaydetti :Kazanýn meydana geliþ sebebi de henüz belirlenemedi .		
+140	88428	2	mücahid	3	Gale 	AA muhabirine yaptýðý açýklamada 	otobüs sürücüsü Musa Telek'in Sarýkamýþ'ta gözaltýnda tutulduðunu belirten Gale 	þunlarý kaydetti :Kazanýn meydana geliþ sebebi de henüz belirlenemedi .		
+140	88428	3	ercangu	3	Kazadan kýsa süre önce otobüs mola verdiði sýrada sürücünün aðýr bir kahvaltý sonrasý direksiyona geçtiði ve dikkatinin daðýldýðý yönündeki iddialarý henüz doðrulanmadý .					
+140	88428	3	Mehmet	3	Kazadan kýsa süre önce otobüs mola verdiði sýrada sürücünün aðýr bir kahvaltý sonrasý direksiyona geçtiði ve dikkatinin daðýldýðý yönündeki iddialarý henüz doðrulanmadý .					
+140	88428	3	mücahid	2	Kazadan kýsa süre önce otobüs mola verdiði sýrada sürücünün aðýr bir kahvaltý sonrasý direksiyona geçtiði ve dikkatinin daðýldýðý yönündeki iddialarý henüz doðrulanmadý .					
+140	88428	4	ercangu	2	Yaralýlarýn ifadeleri sonrasý kaza nedeni aydýnlanacak .					
+140	88428	4	Mehmet	3	Yaralýlarýn ifadeleri sonrasý kaza nedeni aydýnlanacak .					
+140	88428	4	mücahid	2	Yaralýlarýn ifadeleri sonrasý kaza nedeni aydýnlanacak .					
+140	88428	5	ercangu	2	Kaymakam Gale 	Aras Nehri'ne uçan otobüste ölen ve kimlikleri henüz belirlenemeyen 3 kiþinin kimlik tespit çalýþmasýnýn devam ettiðini de söyledi .				
+140	88428	5	Mehmet	3	Kaymakam Gale 	Aras Nehri'ne uçan otobüste ölen ve kimlikleri henüz belirlenemeyen 3 kiþinin kimlik tespit çalýþmasýnýn devam ettiðini de söyledi .				
+140	88428	5	mücahid	2	Kaymakam Gale 	Aras Nehri'ne uçan otobüste ölen ve kimlikleri henüz belirlenemeyen 3 kiþinin kimlik tespit çalýþmasýnýn devam ettiðini de söyledi .				
+140	88755	1	ercangu	2	Aras Nehri'nde kaybolan bir kadýnýn cesedine daha ulaþýldý Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri'ne yolcu otobüsünün uçmasý sonucu nehirde kaybolan bir kadýnýn daha cesedine ulaþýldýðý bildirildi .					
+140	88755	1	Mehmet	3	Aras Nehri'nde kaybolan bir kadýnýn cesedine daha ulaþýldý Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri'ne yolcu otobüsünün uçmasý sonucu nehirde kaybolan bir kadýnýn daha cesedine ulaþýldýðý bildirildi .					
+140	88755	1	mücahid	3	Aras Nehri'nde kaybolan bir kadýnýn cesedine daha ulaþýldý Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri'ne yolcu otobüsünün uçmasý sonucu nehirde kaybolan bir kadýnýn daha cesedine ulaþýldýðý bildirildi .					
+140	88755	2	ercangu	2	Kars Valisi Nevzat Turhan 	Erzurum Sivil Savunma Arama Kurtarma Birlik Müdürlüðü ekiplerince sürdürülen çalýþmalar sonucu 	dün Aras Nehri'ne yolcu otobüsünün uçmasý sonucu kaybolan ve kimliði henüz belirlenemeyen bir kadýnýn cesedine ulaþýldýðýný söyledi .			
+140	88755	2	Mehmet	3	Kars Valisi Nevzat Turhan 	Erzurum Sivil Savunma Arama Kurtarma Birlik Müdürlüðü ekiplerince sürdürülen çalýþmalar sonucu 	dün Aras Nehri'ne yolcu otobüsünün uçmasý sonucu kaybolan ve kimliði henüz belirlenemeyen bir kadýnýn cesedine ulaþýldýðýný söyledi .			
+140	88755	2	mücahid	3	Kars Valisi Nevzat Turhan 	Erzurum Sivil Savunma Arama Kurtarma Birlik Müdürlüðü ekiplerince sürdürülen çalýþmalar sonucu 	dün Aras Nehri'ne yolcu otobüsünün uçmasý sonucu kaybolan ve kimliði henüz belirlenemeyen bir kadýnýn cesedine ulaþýldýðýný söyledi .			
+140	88755	3	ercangu	3	Kaza yerine 20 kilometre uzaklýkta 	Kaðýzman yolunda bulunan cesedin otopsi yapýlmak üzere Kars Devlet Hastanesi morguna kaldýrýldýðýný belirten Vali Turhan 	kaybolan Hüseyin Daðcý'nýn (7 )bulunmasýna yönelik çalýþmalarýn da sürdürüldüðünü ifade etti .			
+140	88755	3	Mehmet	3	Kaza yerine 20 kilometre uzaklýkta 	Kaðýzman yolunda bulunan cesedin otopsi yapýlmak üzere Kars Devlet Hastanesi morguna kaldýrýldýðýný belirten Vali Turhan 	kaybolan Hüseyin Daðcý'nýn (7 )bulunmasýna yönelik çalýþmalarýn da sürdürüldüðünü ifade etti .			
+140	88755	3	mücahid	3	Kaza yerine 20 kilometre uzaklýkta 	Kaðýzman yolunda bulunan cesedin otopsi yapýlmak üzere Kars Devlet Hastanesi morguna kaldýrýldýðýný belirten Vali Turhan 	kaybolan Hüseyin Daðcý'nýn (7 )bulunmasýna yönelik çalýþmalarýn da sürdürüldüðünü ifade etti .			
+140	88755	4	ercangu	3	Turhan 	yeni bulunan cesetle birlikte ölü sayýsýnýn 8'e yükseldiðini kaydetti .				
+140	88755	4	Mehmet	3	Turhan 	yeni bulunan cesetle birlikte ölü sayýsýnýn 8'e yükseldiðini kaydetti .				
+140	88755	4	mücahid	3	Turhan 	yeni bulunan cesetle birlikte ölü sayýsýnýn 8'e yükseldiðini kaydetti .				
+140	88814	1	ercangu	3	Kayýr yolcularý arama çalýþmalarý sürüyor Kars'ýn Sarýkamýþ ilçesinde Aras nehrine uçan yolcu otobüsünden yaralý kurtarýlarak Erzurum'da tedavi altýna alýnan bir kiþinin daha öldüðü 	ölü sayýsýnýn dokuza yükseldiði bildirildi .				
+140	88814	1	Mehmet	3	Kayýr yolcularý arama çalýþmalarý sürüyor Kars'ýn Sarýkamýþ ilçesinde Aras nehrine uçan yolcu otobüsünden yaralý kurtarýlarak Erzurum'da tedavi altýna alýnan bir kiþinin daha öldüðü 	ölü sayýsýnýn dokuza yükseldiði bildirildi .				
+140	88814	1	mücahid	3	Kayýr yolcularý arama çalýþmalarý sürüyor Kars'ýn Sarýkamýþ ilçesinde Aras nehrine uçan yolcu otobüsünden yaralý kurtarýlarak Erzurum'da tedavi altýna alýnan bir kiþinin daha öldüðü 	ölü sayýsýnýn dokuza yükseldiði bildirildi .				
+140	88814	2	ercangu	3	Kars Valisi Nevzat Turhan 	Aras nehrine uçan yolcu otobüsünden yaralý kurtarýlan Gülþen Abdullahyev'in yaþamýný yitirmesiyle ölü sayýsýnýn dokuza yükseldiðini 	bugün Aras nehrinde bulunan kadýn cesedinin de Vesile Aliyeva'ya ait olduðunun tespit edildiðini söyledi .			
+140	88814	2	Mehmet	3	Kars Valisi Nevzat Turhan 	Aras nehrine uçan yolcu otobüsünden yaralý kurtarýlan Gülþen Abdullahyev'in yaþamýný yitirmesiyle ölü sayýsýnýn dokuza yükseldiðini 	bugün Aras nehrinde bulunan kadýn cesedinin de Vesile Aliyeva'ya ait olduðunun tespit edildiðini söyledi .			
+140	88814	2	mücahid	3	Kars Valisi Nevzat Turhan 	Aras nehrine uçan yolcu otobüsünden yaralý kurtarýlan Gülþen Abdullahyev'in yaþamýný yitirmesiyle ölü sayýsýnýn dokuza yükseldiðini 	bugün Aras nehrinde bulunan kadýn cesedinin de Vesile Aliyeva'ya ait olduðunun tespit edildiðini söyledi .			
+140	88814	3	ercangu	2	Son bilgilere göre ölü sayýsýnýn dokuz 	yaralý sayýsýnýn 43 olduðunu ifade eden Turhan 	kayýp Hüseyin Daðcý'nýn bulunmasýna yönelik çalýþmalarýn sürdürüldüðünü kaydetti .			
+140	88814	3	Mehmet	3	Son bilgilere göre ölü sayýsýnýn dokuz 	yaralý sayýsýnýn 43 olduðunu ifade eden Turhan 	kayýp Hüseyin Daðcý'nýn bulunmasýna yönelik çalýþmalarýn sürdürüldüðünü kaydetti .			
+140	88814	3	mücahid	3	Son bilgilere göre ölü sayýsýnýn dokuz 	yaralý sayýsýnýn 43 olduðunu ifade eden Turhan 	kayýp Hüseyin Daðcý'nýn bulunmasýna yönelik çalýþmalarýn sürdürüldüðünü kaydetti .			
+140	88814	4	ercangu	2	Bugün kaza yerine 20 kilometre uzaklýkta 	Kaðýzman yolunda nehirde kaybolan bir kadýnýn daha cesedine ulaþýlmasýyla ölü sayýsý sekize yükselmiþti .				
+140	88814	4	Mehmet	2	Bugün kaza yerine 20 kilometre uzaklýkta 	Kaðýzman yolunda nehirde kaybolan bir kadýnýn daha cesedine ulaþýlmasýyla ölü sayýsý sekize yükselmiþti .				
+140	88814	4	mücahid	2	Bugün kaza yerine 20 kilometre uzaklýkta 	Kaðýzman yolunda nehirde kaybolan bir kadýnýn daha cesedine ulaþýlmasýyla ölü sayýsý sekize yükselmiþti .				
+140	88814	5	ercangu	2	Yaralýlar Erzurum ve Kars'taki hastanelerde tedavi altýna alýnýrken 	kayýplarý arama çalýþmalarý ise sürüyor .				
+140	88814	5	Mehmet	2	Yaralýlar Erzurum ve Kars'taki hastanelerde tedavi altýna alýnýrken 	kayýplarý arama çalýþmalarý ise sürüyor .				
+140	88814	5	mücahid	2	Yaralýlar Erzurum ve Kars'taki hastanelerde tedavi altýna alýnýrken 	kayýplarý arama çalýþmalarý ise sürüyor .				
+140	88814	6	ercangu	2	Þoför ve muavin kaçtý Otobüs sürücüsü ile ikinci þoför ve muavinin kazadan yara almadan kurtulduklarý ve olay yerinden kaçtýklarý öne sürüldü .					
+140	88814	6	Mehmet	2	Þoför ve muavin kaçtý Otobüs sürücüsü ile ikinci þoför ve muavinin kazadan yara almadan kurtulduklarý ve olay yerinden kaçtýklarý öne sürüldü .					
+140	88814	6	mücahid	2	Þoför ve muavin kaçtý Otobüs sürücüsü ile ikinci þoför ve muavinin kazadan yara almadan kurtulduklarý ve olay yerinden kaçtýklarý öne sürüldü .					
+140	88814	7	ercangu	2	Trafik kayýtlarýndan otobüs sürücüsünün daha önce de 11 kez hýz sýnýrýný aþtýðý ortaya çýktý .					
+140	88814	7	Mehmet	2	Trafik kayýtlarýndan otobüs sürücüsünün daha önce de 11 kez hýz sýnýrýný aþtýðý ortaya çýktý .					
+140	88814	7	mücahid	2	Trafik kayýtlarýndan otobüs sürücüsünün daha önce de 11 kez hýz sýnýrýný aþtýðý ortaya çýktý .					
+140	88814	8	ercangu	2	Dün Ýstanbul'dan Iðdýr baðlantýlý olarak Nahçývan'a giderken Kars'ýn Sarýkamýþ ilçesi sýnýrlarýnda Aras Nehri'ne uçan otobüsün yolcularýndan sekizi ölmüþ 	38'i yaralanmýþtý .				
+140	88814	8	Mehmet	2	Dün Ýstanbul'dan Iðdýr baðlantýlý olarak Nahçývan'a giderken Kars'ýn Sarýkamýþ ilçesi sýnýrlarýnda Aras Nehri'ne uçan otobüsün yolcularýndan sekizi ölmüþ 	38'i yaralanmýþtý .				
+140	88814	8	mücahid	2	Dün Ýstanbul'dan Iðdýr baðlantýlý olarak Nahçývan'a giderken Kars'ýn Sarýkamýþ ilçesi sýnýrlarýnda Aras Nehri'ne uçan otobüsün yolcularýndan sekizi ölmüþ 	38'i yaralanmýþtý .				
+140	88872	1	ercangu	2	Kars'ýn Sarýkamýþ Ýlçesi'nde bir otobüsün Aras nehrine uçmasý sonucu meydana gelen kazada ölenlerin sayýsý 9'e çýktý .					
+140	88872	1	Mehmet	2	Kars'ýn Sarýkamýþ Ýlçesi'nde bir otobüsün Aras nehrine uçmasý sonucu meydana gelen kazada ölenlerin sayýsý 9'e çýktý .					
+140	88872	1	mücahid	2	Kars'ýn Sarýkamýþ Ýlçesi'nde bir otobüsün Aras nehrine uçmasý sonucu meydana gelen kazada ölenlerin sayýsý 9'e çýktý .					
+140	88872	2	ercangu	2	Kazadan yaralý kurtulan ve Erzurum'da tedavi altýna alýnan Gülþen Abdullahyev yaþamýný yitirdi .					
+140	88872	2	Mehmet	2	Kazadan yaralý kurtulan ve Erzurum'da tedavi altýna alýnan Gülþen Abdullahyev yaþamýný yitirdi .					
+140	88872	2	mücahid	2	Kazadan yaralý kurtulan ve Erzurum'da tedavi altýna alýnan Gülþen Abdullahyev yaþamýný yitirdi .					
+140	88872	3	ercangu	2	Aras nehrinde bulunan kadýn cesedinin ise Azerbaycan uyruklu Vesile Aliyeva'ya ait olduðu belirlendi .					
+140	88872	3	Mehmet	2	Aras nehrinde bulunan kadýn cesedinin ise Azerbaycan uyruklu Vesile Aliyeva'ya ait olduðu belirlendi .					
+140	88872	3	mücahid	2	Aras nehrinde bulunan kadýn cesedinin ise Azerbaycan uyruklu Vesile Aliyeva'ya ait olduðu belirlendi .					
+140	88872	4	ercangu	2	Bir kiþinin ise halen kayýp olduðu sanýlýyor .					
+140	88872	4	Mehmet	3	Bir kiþinin ise halen kayýp olduðu sanýlýyor .					
+140	88872	4	mücahid	3	Bir kiþinin ise halen kayýp olduðu sanýlýyor .					
+140	88872	5	ercangu	2	Kazada yaralanan 42 kiþinin tedavileri Kars ve Erzurum'daki hastanelerde devam ediyor .					
+140	88872	5	Mehmet	2	Kazada yaralanan 42 kiþinin tedavileri Kars ve Erzurum'daki hastanelerde devam ediyor .					
+140	88872	5	mücahid	2	Kazada yaralanan 42 kiþinin tedavileri Kars ve Erzurum'daki hastanelerde devam ediyor .					
+140	88872	6	ercangu	1	Muðla'nýn Köyceðiz ilçesi yakýnlarýnda ise Ýngiliz turistleri taþýyan minibüsün kamyonla çarpýþmasý sonucu 	biri turist 2 kiþi öldü 	10'u turist 12 kiþi yaralandý .			
+140	88872	6	Mehmet	1	Muðla'nýn Köyceðiz ilçesi yakýnlarýnda ise Ýngiliz turistleri taþýyan minibüsün kamyonla çarpýþmasý sonucu 	biri turist 2 kiþi öldü 	10'u turist 12 kiþi yaralandý .			
+140	88872	6	mücahid	1	Muðla'nýn Köyceðiz ilçesi yakýnlarýnda ise Ýngiliz turistleri taþýyan minibüsün kamyonla çarpýþmasý sonucu 	biri turist 2 kiþi öldü 	10'u turist 12 kiþi yaralandý .			
+140	88872	7	ercangu	1	Kazada 	minibüsü kullananan Ýngiliz turist Charlie Harris ve kamyon sürücüsü Ayhan Uzunoðlu hayatýný kaybetti .				
+140	88872	7	Mehmet	1	Kazada 	minibüsü kullananan Ýngiliz turist Charlie Harris ve kamyon sürücüsü Ayhan Uzunoðlu hayatýný kaybetti .				
+140	88872	7	mücahid	1	Kazada 	minibüsü kullananan Ýngiliz turist Charlie Harris ve kamyon sürücüsü Ayhan Uzunoðlu hayatýný kaybetti .				
+140	88872	8	ercangu	1	10'u Ýngiliz turist 	toplam 12 yaralý Muðla ve Köyceðiz Devlet hastanelerinde tedavi altýna alýndý .				
+140	88872	8	Mehmet	1	10'u Ýngiliz turist 	toplam 12 yaralý Muðla ve Köyceðiz Devlet hastanelerinde tedavi altýna alýndý .				
+140	88872	8	mücahid	1	10'u Ýngiliz turist 	toplam 12 yaralý Muðla ve Köyceðiz Devlet hastanelerinde tedavi altýna alýndý .				
+140	88872	9	ercangu	1	Öteyandan Diyarbakýr'da meydana gelen trafik kazasýnda 	2 kiþi öldü 	2 kiþi yaralandý .			
+140	88872	9	Mehmet	1	Öteyandan Diyarbakýr'da meydana gelen trafik kazasýnda 	2 kiþi öldü 	2 kiþi yaralandý .			
+140	88872	9	mücahid	1	Öteyandan Diyarbakýr'da meydana gelen trafik kazasýnda 	2 kiþi öldü 	2 kiþi yaralandý .			
+140	88872	10	ercangu	1	Diyarbakýr Silvan Karayolu 12'nci kilometresinde meydana gelen kazada 	Süleyman Alcan yönetimindeki 21 DA 267 plakalý minibüs ile Yeni Zelanda plakalý bir motosiklet çarpýþtý .				
+140	88872	10	Mehmet	1	Diyarbakýr Silvan Karayolu 12'nci kilometresinde meydana gelen kazada 	Süleyman Alcan yönetimindeki 21 DA 267 plakalý minibüs ile Yeni Zelanda plakalý bir motosiklet çarpýþtý .				
+140	88872	10	mücahid	1	Diyarbakýr Silvan Karayolu 12'nci kilometresinde meydana gelen kazada 	Süleyman Alcan yönetimindeki 21 DA 267 plakalý minibüs ile Yeni Zelanda plakalý bir motosiklet çarpýþtý .				
+140	88872	11	ercangu	1	Kazada 	motosiklette bulunan Yeni Zelanda uyruklu Neil ve Carol Býskopt hayatýný kaybetti .				
+140	88872	11	Mehmet	1	Kazada 	motosiklette bulunan Yeni Zelanda uyruklu Neil ve Carol Býskopt hayatýný kaybetti .				
+140	88872	11	mücahid	1	Kazada 	motosiklette bulunan Yeni Zelanda uyruklu Neil ve Carol Býskopt hayatýný kaybetti .				
+140	88872	12	ercangu	1	Yaralanan iki kiþi Dicle Üniversitesi Týp Fakültesi Araþtýrma ve Uygulama Hastanesi'nde tedavi altýna alýndý .					
+140	88872	12	Mehmet	1	Yaralanan iki kiþi Dicle Üniversitesi Týp Fakültesi Araþtýrma ve Uygulama Hastanesi'nde tedavi altýna alýndý .					
+140	88872	12	mücahid	1	Yaralanan iki kiþi Dicle Üniversitesi Týp Fakültesi Araþtýrma ve Uygulama Hastanesi'nde tedavi altýna alýndý .					
+140	88893	1	ercangu	2	Ölü sayýsý 9'a yükseldi .					
+140	88893	1	Mehmet	2	Ölü sayýsý 9'a yükseldi .					
+140	88893	1	mücahid	2	Ölü sayýsý 9'a yükseldi .					
+140	88893	2	ercangu	2	Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlarak Erzurum'da tedavi altýna alýnan bir kiþinin daha öldüðü 	ölü sayýsýnýn 9'a yükseldiði bildirildi .				
+140	88893	2	Mehmet	2	Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlarak Erzurum'da tedavi altýna alýnan bir kiþinin daha öldüðü 	ölü sayýsýnýn 9'a yükseldiði bildirildi .				
+140	88893	2	mücahid	2	Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlarak Erzurum'da tedavi altýna alýnan bir kiþinin daha öldüðü 	ölü sayýsýnýn 9'a yükseldiði bildirildi .				
+140	88893	3	ercangu	2	Kars Valisi Nevzat Turhan 	AA muhabirine yaptýðý açýklamada 	Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan Gülþen Abdullahyev'in yaþamýný yitirmesiyle ölü sayýsýnýn 9'a yükseldiðini 	bugün Aras Nehri'nde bulunan kadýn cesedinin de Vesile Aliyeva'ya ait olduðunun tespit edildiðini söyledi .		
+140	88893	3	Mehmet	2	Kars Valisi Nevzat Turhan 	AA muhabirine yaptýðý açýklamada 	Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan Gülþen Abdullahyev'in yaþamýný yitirmesiyle ölü sayýsýnýn 9'a yükseldiðini 	bugün Aras Nehri'nde bulunan kadýn cesedinin de Vesile Aliyeva'ya ait olduðunun tespit edildiðini söyledi .		
+140	88893	3	mücahid	2	Kars Valisi Nevzat Turhan 	AA muhabirine yaptýðý açýklamada 	Aras Nehri'ne uçan yolcu otobüsünden yaralý kurtarýlan Gülþen Abdullahyev'in yaþamýný yitirmesiyle ölü sayýsýnýn 9'a yükseldiðini 	bugün Aras Nehri'nde bulunan kadýn cesedinin de Vesile Aliyeva'ya ait olduðunun tespit edildiðini söyledi .		
+140	88893	4	ercangu	2	Son bilgilere göre ölü sayýsýnýn 9 	yaralý sayýsýnýn 43 olduðunu ifade eden Turhan 	kayýp Hüseyin Daðcý'nýn bulunmasýna yönelik çalýþmalarýn sürdürüldüðünü kaydetti .			
+140	88893	4	Mehmet	2	Son bilgilere göre ölü sayýsýnýn 9 	yaralý sayýsýnýn 43 olduðunu ifade eden Turhan 	kayýp Hüseyin Daðcý'nýn bulunmasýna yönelik çalýþmalarýn sürdürüldüðünü kaydetti .			
+140	88893	4	mücahid	2	Son bilgilere göre ölü sayýsýnýn 9 	yaralý sayýsýnýn 43 olduðunu ifade eden Turhan 	kayýp Hüseyin Daðcý'nýn bulunmasýna yönelik çalýþmalarýn sürdürüldüðünü kaydetti .			
+140	92258	1	ercangu	3	Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri kenarýnda bir erkek cesedi bulundu .					
+140	92258	1	Mehmet	3	Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri kenarýnda bir erkek cesedi bulundu .					
+140	92258	1	mücahid	3	Kars'ýn Sarýkamýþ Ýlçesi'nde Aras Nehri kenarýnda bir erkek cesedi bulundu .					
+140	92258	2	ercangu	3	Edinilen bilgiye göre 	Sarýkamýþ Ýlçesi Akkoz Köyü yakýnlarýnda köylüler tarafýndan Aras Nehri kenarýnda bulunan 25 yaþlarýndaki erkek cesedinin kime ait olduðunun belirlenmesine çalýþýlýyor .				
+140	92258	2	Mehmet	3	Edinilen bilgiye göre 	Sarýkamýþ Ýlçesi Akkoz Köyü yakýnlarýnda köylüler tarafýndan Aras Nehri kenarýnda bulunan 25 yaþlarýndaki erkek cesedinin kime ait olduðunun belirlenmesine çalýþýlýyor .				
+140	92258	2	mücahid	3	Edinilen bilgiye göre 	Sarýkamýþ Ýlçesi Akkoz Köyü yakýnlarýnda köylüler tarafýndan Aras Nehri kenarýnda bulunan 25 yaþlarýndaki erkek cesedinin kime ait olduðunun belirlenmesine çalýþýlýyor .				
+140	92258	3	ercangu	3	Emniyet yetkilileri 	cesedin 	28 Mayýs'da Aras Nehri'ne yuvarlanan ve 9 kiþinin öldüðü 38 kiþinin yaralandýðý otobüsün yolcularýndan olma ihtimali üzerine durduklarýný bildirildiler .			
+140	92258	3	Mehmet	3	Emniyet yetkilileri 	cesedin 	28 Mayýs'da Aras Nehri'ne yuvarlanan ve 9 kiþinin öldüðü 38 kiþinin yaralandýðý otobüsün yolcularýndan olma ihtimali üzerine durduklarýný bildirildiler .			
+140	92258	3	mücahid	3	Emniyet yetkilileri 	cesedin 	28 Mayýs'da Aras Nehri'ne yuvarlanan ve 9 kiþinin öldüðü 38 kiþinin yaralandýðý otobüsün yolcularýndan olma ihtimali üzerine durduklarýný bildirildiler .			
+140	171376	1	ercangu	1	Aras Nehri yakýnlarýnda 5 bin kuþ öldü Ýran'ýn Batý Azerbaycan eyaleti sýnýrlarý içinde yer alan Aras nehrinin yakýnlarýnda 5 bin civarýnda göçmen kuþun öldüðü bildirildi .					
+140	171376	1	Mehmet	1	Aras Nehri yakýnlarýnda 5 bin kuþ öldü Ýran'ýn Batý Azerbaycan eyaleti sýnýrlarý içinde yer alan Aras nehrinin yakýnlarýnda 5 bin civarýnda göçmen kuþun öldüðü bildirildi .					
+140	171376	1	mücahid	1	Aras Nehri yakýnlarýnda 5 bin kuþ öldü Ýran'ýn Batý Azerbaycan eyaleti sýnýrlarý içinde yer alan Aras nehrinin yakýnlarýnda 5 bin civarýnda göçmen kuþun öldüðü bildirildi .					
+140	171376	2	ercangu	1	Ýran öðrenci ajansý ÝSNA'nýn haberine göre 	Batý Azerbaycan eyaletinde günde ortalama 70 göçmen kuþ ölüyor .				
+140	171376	2	Mehmet	1	Ýran öðrenci ajansý ÝSNA'nýn haberine göre 	Batý Azerbaycan eyaletinde günde ortalama 70 göçmen kuþ ölüyor .				
+140	171376	2	mücahid	1	Ýran öðrenci ajansý ÝSNA'nýn haberine göre 	Batý Azerbaycan eyaletinde günde ortalama 70 göçmen kuþ ölüyor .				
+140	171376	3	ercangu	1	Son günlerde Aras nehri yakýnlarýnda yaklaþýk 5 bin kuþun öldüðü kaydedilen haberde 	''kuþ gribinin Ýran'da görülme ihtimalinin günden güne arttýðý ''ifade edildi .				
+140	171376	3	Mehmet	1	Son günlerde Aras nehri yakýnlarýnda yaklaþýk 5 bin kuþun öldüðü kaydedilen haberde 	''kuþ gribinin Ýran'da görülme ihtimalinin günden güne arttýðý ''ifade edildi .				
+140	171376	3	mücahid	1	Son günlerde Aras nehri yakýnlarýnda yaklaþýk 5 bin kuþun öldüðü kaydedilen haberde 	''kuþ gribinin Ýran'da görülme ihtimalinin günden güne arttýðý ''ifade edildi .				
+140	200827	1	ercangu	1	Kars'ta trafik kazasý :7 yaralý Kars'ýn Digor Ýlçesi'nde meydana gelen trafik kazasýnda 7 kiþi yaralandý .					
+140	200827	1	Mehmet	1	Kars'ta trafik kazasý :7 yaralý Kars'ýn Digor Ýlçesi'nde meydana gelen trafik kazasýnda 7 kiþi yaralandý .					
+140	200827	1	mücahid	1	Kars'ta trafik kazasý :7 yaralý Kars'ýn Digor Ýlçesi'nde meydana gelen trafik kazasýnda 7 kiþi yaralandý .					
+140	200827	2	ercangu	1	Digor Ýlçesi'ne baðlý Kocaköy'den Kars'a gelmekte olan Nesim Çalýþçý'nýn kullandýðý 36 M 0960 plakalý yolcu minibüsü 	Digor Kars karayolunun kaygan olmasý nedeniyle þarampole yuvarlandý .				
+140	200827	2	Mehmet	1	Digor Ýlçesi'ne baðlý Kocaköy'den Kars'a gelmekte olan Nesim Çalýþçý'nýn kullandýðý 36 M 0960 plakalý yolcu minibüsü 	Digor Kars karayolunun kaygan olmasý nedeniyle þarampole yuvarlandý .				
+140	200827	2	mücahid	1	Digor Ýlçesi'ne baðlý Kocaköy'den Kars'a gelmekte olan Nesim Çalýþçý'nýn kullandýðý 36 M 0960 plakalý yolcu minibüsü 	Digor Kars karayolunun kaygan olmasý nedeniyle þarampole yuvarlandý .				
+140	200827	3	ercangu	1	Kazada yaralanan Yeter Özçeken (42 )	Miyese Kaya (75 )	Zeytun Çelimli (72 )	Turan Çaðýn (40 )	Yusuf Çalýþçý (24 )	Emre Özçakýr (8 )ve adý belirlenemeyen 1 .5 yaþýndaki çocuk Kars Devlet Hastanesi'nde tedavi altýna alýndýlar .
+140	200827	3	Mehmet	1	Kazada yaralanan Yeter Özçeken (42 )	Miyese Kaya (75 )	Zeytun Çelimli (72 )	Turan Çaðýn (40 )	Yusuf Çalýþçý (24 )	Emre Özçakýr (8 )ve adý belirlenemeyen 1 .5 yaþýndaki çocuk Kars Devlet Hastanesi'nde tedavi altýna alýndýlar .
+140	200827	3	mücahid	1	Kazada yaralanan Yeter Özçeken (42 )	Miyese Kaya (75 )	Zeytun Çelimli (72 )	Turan Çaðýn (40 )	Yusuf Çalýþçý (24 )	Emre Özçakýr (8 )ve adý belirlenemeyen 1 .5 yaþýndaki çocuk Kars Devlet Hastanesi'nde tedavi altýna alýndýlar .
